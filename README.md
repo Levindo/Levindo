@@ -8,7 +8,7 @@ I'm a Delphi Developer  with 35+ years of hands-on experience designing, develop
   
 <br />
 <br />
-I'm studing Python and what tobe a Full Stack Developer
+I'm studing Python  Full Stack Developer
 <br />
 
 <br />
