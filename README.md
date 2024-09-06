@@ -6,5 +6,5 @@
 <br />
 
 
-I'm a Delphi Developer  with 35+ years of hands-on experience designing, developing and implementing applications and solutions using a 
+I'm a Delphi Developer  with 35+ years of hands-on experience designing, developing and implementing applications and solutions
 <br />
