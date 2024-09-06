@@ -11,6 +11,6 @@ I'm a Delphi Developer  with 35+ years of hands-on experience designing, develop
 
 <br />
 
-I'm currently based in **[Jaboatão dos Guararapes, Pernambuco, Brasil.]([https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378](https://www.google.com.br/maps/@-8.044014,-35.0134938,12z?hl=pt-BR&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D))**
+I'm currently based in **[Jaboatão dos Guararapes, Pernambuco, Brasil.]((https://www.google.com.br/maps/@-8.044014,-35.0134938,12z?hl=pt-BR&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D))**
 
 <br />
