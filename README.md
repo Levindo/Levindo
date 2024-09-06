@@ -4,3 +4,7 @@
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <br />
+
+
+I'm a Delphi Developer  with 35+ years of hands-on experience designing, developing and implementing applications and solutions using a 
+<br />
