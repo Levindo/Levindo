@@ -11,6 +11,6 @@ I'm a Delphi Developer  with 35+ years of hands-on experience designing, develop
 
 <br />
 
-I'm currently based in **[Jaboatão dos Guararapes, Pernambuco, Brasil.]((https://www.google.com.br/maps/@-8.044014,-35.0134938,12z?hl=pt-BR&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D))**
+I'm currently based in **[Jaboatão dos Guararapes, Pernambuco, Brasil.](https://www.google.com.br/maps/@-8.044014,-35.0134938,12z?hl=pt-BR&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D)**
 
 <br />
